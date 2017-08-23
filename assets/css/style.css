@@ -1,0 +1,17 @@
+.container{
+    height: 900px;
+    width: 100%;
+    background-color: #000000;
+}
+#form-value{
+    width: 450px;
+}
+.history_btn{
+    margin-right: 10px;
+
+}
+#history{
+    margin: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
